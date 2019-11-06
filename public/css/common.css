@@ -1,0 +1,39 @@
+.message-validate {
+    font-size: 14px;
+    font-style: italic;
+    color: #ff0000;
+}
+
+.font-size-message {
+    font-size: 16px;
+}
+@media only screen and (min-width: 750px){
+    .btn-buy-sell{
+        width:80px;
+        text-align: center;
+        background-color: red;
+        padding: 8px;
+        color:#fff;
+        border-radius: 4px;
+        position: absolute;
+        right: 12.5%
+    }
+}
+.rate-base-layer
+{
+    color: #aaa;
+}
+.rate-hover-layer
+{
+    color: orange;
+}
+.rate{
+    color: red;
+}
+
+.charts-style {
+    min-width: 310px;
+    height: 500px;
+    margin: 0 auto;
+}
+
